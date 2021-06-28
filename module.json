@@ -8,6 +8,8 @@
         "Modules\\Show\\Providers\\ShowServiceProvider"
     ],
     "aliases": {},
-    "files": [],
+    "files": [
+        "start.php"
+    ],
     "requires": []
 }
