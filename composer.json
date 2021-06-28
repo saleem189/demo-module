@@ -1,0 +1,19 @@
+{
+    "name": "saleem/show-module",
+    "description": "just a Dummy Module for Testing",
+    "type": "laravel-module",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Saleem\\ShowModule\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "saleem189",
+            "email": "75361545+saleem189@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
